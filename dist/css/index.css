@@ -1,0 +1,44 @@
+body {
+  background: url(/dist/imgs/3_4028.jpg);
+}
+.todoBox {
+  margin: 0 auto;
+  width: 1000px;
+  padding-top: 50px;
+}
+.todoBox .addTodoBox input {
+  height: 30px;
+  line-height: 30px;
+  width: 600px;
+  padding-left: 12px;
+  font-size: 18px;
+}
+.todoBox .addTodoBox button {
+  height: 35px;
+  line-height: 32px;
+  vertical-align: top;
+  border: 1px #ccc solid;
+  width: 120px;
+  margin-left: 15px;
+  color: #fff;
+  background-color: #06c;
+}
+.todoBox .todoList {
+  padding: 0;
+  margin: 0;
+}
+.todoBox .todoList li {
+  list-style-type: none;
+  height: 42px;
+  line-height: 42px;
+  margin-top: 15px;
+  border: 1px #999 solid;
+  padding-left: 12px;
+  border-radius: 3px;
+}
+body {
+  background-color: #ff00ff;
+}
+body div {
+  font-size: 24px;
+}
